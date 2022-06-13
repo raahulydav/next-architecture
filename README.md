@@ -6,3 +6,10 @@ Points to consider for architecture plans
   * local imports
   * assets imports
   * css imports
+
+TODO:
+* Error pages
+* API Routes
+* Assets & css 
+* Utils
+* Documentation style
